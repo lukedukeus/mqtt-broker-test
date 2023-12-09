@@ -642,11 +642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luke\\Downloads\\MQTTtest\\MQTTtest.csproj",
+      "projectUniqueName": "C:\\Users\\Luke\\Downloads\\mqtt-broker-test\\MQTTtest.csproj",
       "projectName": "MQTTtest",
-      "projectPath": "C:\\Users\\Luke\\Downloads\\MQTTtest\\MQTTtest.csproj",
+      "projectPath": "C:\\Users\\Luke\\Downloads\\mqtt-broker-test\\MQTTtest.csproj",
       "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luke\\Downloads\\MQTTtest\\obj\\",
+      "outputPath": "C:\\Users\\Luke\\Downloads\\mqtt-broker-test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
