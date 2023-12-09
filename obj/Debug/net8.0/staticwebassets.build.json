@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CHL8cZNlyKY7FXoX/d8jBLtwpRRpGlIj+TdepPRAxs0=",
+  "Source": "MQTTtest",
+  "BasePath": "_content/MQTTtest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
